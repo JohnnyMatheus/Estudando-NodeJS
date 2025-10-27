@@ -4,8 +4,7 @@ const readline = require('readline').createInterface({
 })
 
 readline.question('Qual seu Nome? ',(nome) =>{
-    console.log(`A minha linguagem preferida é: ${nome}`)
-    readline.close()
+    console.log(`O nome é: ${nome}`)
+    readline.close();
 })
 
-readline.question()
