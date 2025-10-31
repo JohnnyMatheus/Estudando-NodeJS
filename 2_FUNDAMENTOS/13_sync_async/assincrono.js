@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 
-fs.writeFile('arquivo.txt', 'Hello world', function (err) {
+fs.writeFile('arquivo.txt', 'Nathaniel petista', function (err) {
     setTimeout(function (){
         console.log('Arquivo criado')
     },1000)
