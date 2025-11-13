@@ -1,0 +1,15 @@
+{
+  "name": "meu_projeto",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto usando npm",
+  "keywords": [
+    "npm"
+  ],
+  "license": "MIT",
+  "author": "Johnny <johnny@teste.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

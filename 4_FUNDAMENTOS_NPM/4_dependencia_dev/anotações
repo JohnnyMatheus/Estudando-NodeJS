@@ -1,0 +1,9 @@
+comando para atualizar pacotes
+npm update
+
+comando para checar se se tem atualizações 
+npx npm-check-updates -update
+
+
+instalando um modulo apenas 
+exemplo npm update chalk 
