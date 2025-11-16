@@ -1,0 +1,11 @@
+exemplo instalando o lodash de forma global
+
+
+npm install -g lodash
+
+npm link lodash
+
+
+npx cowsay "Hello world"
+
+npx cowsay -d "Morri"
